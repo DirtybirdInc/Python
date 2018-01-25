@@ -1,0 +1,7 @@
+c:\users\familiefibi\documents\visual studio 2015\Projects\PythonIntegration\PythonIntegration\bin\Debug\PythonIntegration.dll
+c:\users\familiefibi\documents\visual studio 2015\Projects\PythonIntegration\PythonIntegration\bin\Debug\PythonIntegration.pdb
+c:\users\familiefibi\documents\visual studio 2015\Projects\PythonIntegration\PythonIntegration\bin\Debug\PythonIntegration.dll.CodeAnalysisLog.xml
+c:\users\familiefibi\documents\visual studio 2015\Projects\PythonIntegration\PythonIntegration\bin\Debug\PythonIntegration.dll.lastcodeanalysissucceeded
+c:\users\familiefibi\documents\visual studio 2015\Projects\PythonIntegration\PythonIntegration\obj\Debug\PythonIntegration.csprojResolveAssemblyReference.cache
+c:\users\familiefibi\documents\visual studio 2015\Projects\PythonIntegration\PythonIntegration\obj\Debug\PythonIntegration.dll
+c:\users\familiefibi\documents\visual studio 2015\Projects\PythonIntegration\PythonIntegration\obj\Debug\PythonIntegration.pdb
